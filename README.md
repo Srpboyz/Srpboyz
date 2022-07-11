@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srpboyz
+- 👋 Hi, I’m @spaul030
 - 👀 I’m interested in Java, C++, and Python
 - 🌱 I’m currently learning Python
 
